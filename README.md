@@ -9,6 +9,8 @@ GitHub repository from these files may be given during the course. The
 same instructions are also summarized in [CONTRIBUTING.md].
 
 ##Collaborators
+-gavia5
+jesshstone
 
 Jessica Stone
 
