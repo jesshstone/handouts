@@ -3,6 +3,8 @@
 This is our work at the SESYNC Summer Institute for SES.
 
 ##Collaborators
+-gavia5
+jesshstone
 
 Jessica Stone
 
